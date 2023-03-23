@@ -193,17 +193,16 @@ async def start_comm(client, message: Message, _):
         if config.START_IMG_URL:
             try:
                 await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/843619cbc2923a2f33a94.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐃𝐞𝐯𝐥𝐨𝐩𝐞𝐫 : [𝐑𝐚𝐜𝐡𝐢𝐭](https://t.me/BikashHalder)
+┣★ 𝐎𝐰𝐧𝐞𝐫 : [𝐋𝐮𝐜𝐤𝐲](https://t.me/AdityaHalder)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐞𝐜𝐫𝐞𝐭 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 𝐒𝐨𝐜𝐢𝐞𝐭𝐲](https://t.me/The_Secret_Chatting_Society)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐃𝐨𝐬𝐭𝐨 𝐊𝐢 𝐌𝐚𝐬𝐭𝐢](https://t.me/Doston_Ki_Masti)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -224,17 +223,18 @@ async def start_comm(client, message: Message, _):
                   )
             except:
                 await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+            try:
+                await message.reply_photo(
+        photo=f"https://telegra.ph/file/843619cbc2923a2f33a94.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐃𝐞𝐯𝐥𝐨𝐩𝐞𝐫 : [𝐑𝐚𝐜𝐡𝐢𝐭](https://t.me/BikashHalder)
+┣★ 𝐎𝐰𝐧𝐞𝐫 : [𝐋𝐮𝐜𝐤𝐲](https://t.me/AdityaHalder)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐞𝐜𝐫𝐞𝐭 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 𝐒𝐨𝐜𝐢𝐞𝐭𝐲](https://t.me/The_Secret_Chatting_Society)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐃𝐨𝐬𝐭𝐨 𝐊𝐢 𝐌𝐚𝐬𝐭𝐢](https://t.me/Doston_Ki_Masti)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -252,20 +252,20 @@ async def start_comm(client, message: Message, _):
                 ]
            ]
         ),
-              )
+                  )
         else:
-            await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+                try:
+                await message.reply_photo(
+        photo=f"https://telegra.ph/file/843619cbc2923a2f33a94.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐃𝐞𝐯𝐥𝐨𝐩𝐞𝐫 : [𝐑𝐚𝐜𝐡𝐢𝐭](https://t.me/BikashHalder)
+┣★ 𝐎𝐰𝐧𝐞𝐫 : [𝐋𝐮𝐜𝐤𝐲](https://t.me/AdityaHalder)
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐒𝐞𝐜𝐫𝐞𝐭 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 𝐒𝐨𝐜𝐢𝐞𝐭𝐲](https://t.me/The_Secret_Chatting_Society)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐃𝐨𝐬𝐭𝐨 𝐊𝐢 𝐌𝐚𝐬𝐭𝐢](https://t.me/Doston_Ki_Masti)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -283,7 +283,7 @@ async def start_comm(client, message: Message, _):
                 ]
            ]
         ),
-           )
+                  )
         if await is_on_off(config.LOG):
             sender_id = message.from_user.id
             sender_name = message.from_user.first_name
